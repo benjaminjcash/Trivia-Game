@@ -1,0 +1,25 @@
+
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+
+}
+
+.answers {
+    font-style: bold;
+    
+
+};
+
+.question {
+    color: red;
+    
+}
+
+#centerbox {
+    width: 40%;
+}
+
+#titlebox {
+    font-family: 'Bungee', cursive;
+}
