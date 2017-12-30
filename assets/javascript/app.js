@@ -1,4 +1,4 @@
-var timeRemaining = 60;
+var timeRemaining = 90;
 var timer;
 
 
